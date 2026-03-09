@@ -1,0 +1,4 @@
+Server: nginx | Status: Server is running
+Server: mysql | Status: Server is down
+Server: docker | Status: Server is running
+Server: redis | Status: Server is down

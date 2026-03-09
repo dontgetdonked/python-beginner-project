@@ -1,0 +1,4 @@
+nginx,running
+mysql,stopped
+docker,running
+redis,stopped
